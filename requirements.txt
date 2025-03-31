@@ -1,6 +1,6 @@
 streamlit==1.32.0
 together==0.2.11
-pillow==10.2.0
+pillow==10.3.0
 requests==2.31.0
 beautifulsoup4==4.12.3
 google-api-python-client==2.118.0
